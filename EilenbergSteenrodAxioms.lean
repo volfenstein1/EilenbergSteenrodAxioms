@@ -1,1 +1,5 @@
-import EilenbergSteenrodAxioms.Basic
+import EilenbergSteenrodAxioms.TopologicalPair
+import EilenbergSteenrodAxioms.AlgebraicMayerVietoris
+import EilenbergSteenrodAxioms.EilenbergSteenrodAxioms
+import EilenbergSteenrodAxioms.Homology
+
